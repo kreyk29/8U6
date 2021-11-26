@@ -1,0 +1,5 @@
+Ost - music, plays always.
+
+Flower - when any flower is eaten/spawned or actions related to flowers.
+
+Leaf 1/2/3 - when bugs stand on a leaf in the game or when leaves are spawned.
