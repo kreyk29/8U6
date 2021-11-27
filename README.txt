@@ -2,7 +2,7 @@
 
 ---Credits---
 
-Made for "Game Off 2021" game jam using Clickteam FUsion 2.5
+Made for "Game Off 2021" game jam using Clickteam Fusion 2.5
 Extensions used:
 	- Ini++ Object   - Jack Webster
 	- Easing Object  - Anders Riggelsen
@@ -12,15 +12,16 @@ Inspired by Murka124's game Arrows: https://murka124.itch.io/arrows
 Source for game files: https://github.com/kreyk29/8U6
 
 Sounds used from freesound.org:
-	- f4ngy          - Picking Flower
+	- f4ngy		 - Picking Flower
 	- EminYILDIRIM   - Footstep Grass Leaf
+	- OtisJames	 - squitch
 
 Team:
 	- kreyk29        - code, music & sfx
 	- MOSHA_NOZIK    - most of the sprites
 
 Special Thanks to:
-	- doodocina      - Next Level button idea.
+	- doodocina	 - Next Level button idea.
 
 ---Help---
 
@@ -42,5 +43,4 @@ Level Comments:
 Mods:
 	- You can change music and SFX but with the same file name.
 	- You can make levels, open editor and save level in the \Levels\Custom.
-	- Editing original levels affect the game.
-	- Editing .png files does not affect the game.
+	- Editing original levels affects the game.
